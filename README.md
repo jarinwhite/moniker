@@ -1,6 +1,6 @@
 # Moniker #
 
-A random name generator for Node.js.
+A random name generator for NativeScript.
 
 ## Synopsis ##
 
@@ -43,7 +43,7 @@ The `options` are optional and are passed along to the new
     {
       maxSize: undefined,
       encoding: 'utf-8',
-      glue: '-'
+      glue: ''
     }
 
 **Generator(options)**
